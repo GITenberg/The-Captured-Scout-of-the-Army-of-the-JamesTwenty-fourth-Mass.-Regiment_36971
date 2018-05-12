@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3589
     wikipedia: http://en.wikipedia.org/wiki/Henry_Clay_Trumbull
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36971#The-Captured-Scout-of-the-Army-of-the-JamesTwenty-fourth-Mass.-Regiment
 gutenberg_issued: '2011-08-04'
 gutenberg_type: Text
 identifiers:
